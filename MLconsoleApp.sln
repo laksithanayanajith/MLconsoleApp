@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLconsoleApp", "MLconsoleApp.csproj", "{8613001B-3673-40CD-A279-C9245E6C6CAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8613001B-3673-40CD-A279-C9245E6C6CAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8613001B-3673-40CD-A279-C9245E6C6CAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8613001B-3673-40CD-A279-C9245E6C6CAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8613001B-3673-40CD-A279-C9245E6C6CAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F648B8E3-4DC1-4736-ADB3-FFB32F1A1AE8}
+	EndGlobalSection
+EndGlobal
